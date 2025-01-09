@@ -6,7 +6,7 @@ My name is *Alejandro Vasquez*. I'm a web developer and I'm studying an Systems 
 
 My interest is study and practice in web development, now, I am working with no-code tools, but I changing this and specialize in  full code development to include many technologies.
 
-I work in Overlight and NeaxLab, two companies in Colombia focus into develop, UX / UI  and 3D art.
+I work on Nea Studio in Colombia, Studio focused on develop, UX / UI  and 3D art.
 
 ## Tools: 
 - Webflow
