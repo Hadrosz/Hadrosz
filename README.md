@@ -13,14 +13,8 @@ I work in Overlight and NeaxLab, two companies in Colombia focus into develop, U
 - HTML
 - SQL
 - CSS
-- JavaScript
-
-
-## LEARNING
-- React 
-- NoSQL
-- NextJS
-- TypeScript
+- JavaScript / TypeScript
+- NextJS / React
 
 ## Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-vásquez-39b660229)
